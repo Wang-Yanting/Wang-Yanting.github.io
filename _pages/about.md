@@ -8,16 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at the Pennsylvania State University, advised by [Prof.Jinyuan Jia](https://jinyuan-jia.github.io/). My research focuses on AI Security & Trustworthy LLM.
-
-I received my B.Eng in Computer Science from [Wuhan University](https://www.whu.edu.cn/) in 2024.
-
+I am currently a second-year PhD student at Pennsylvania State University. I am fortunate to be advised by [Dr.Jinyuan Jia](https://jinyuan-jia.github.io/). My research focuses on AI Security, with a recent focus on LLM explanation. I earned dual bachelor’s degrees in Mechanical Engineering and Computer Science from RPI, followed by a master’s in Computer Science from Duke University.
 
 
 ## Current research focuses
 
-* Retrieval Augmented Generation (RAG) Security
-* Language modeling & optimization methods
+* Explaining LLM behavior for security applications
+* Certifiable robustness in machine learning models
 
 
 
