@@ -12,9 +12,9 @@ title                    : "Yanting Wang"
 title_separator          : "-"
 name                     : &name "Yanting Wang"
 description              : &description "PhD student at PennState IST"
-url                      : https://WYT8506.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Wang-Yanting.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "WYT8506/WYT8506.github.io"
+repository               : "Wang-Yanting/Wang-Yanting.github.io"
 
 # Site Author
 author:
