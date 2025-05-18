@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Runpeng Geng"
+title                    : "Yanting Wang"
 title_separator          : "-"
-name                     : &name "Runpeng Geng"
+name                     : &name "Yanting Wang"
 description              : &description "PhD student at PennState IST"
 url                      : https://sleeepeer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sleeepeer/sleeepeer.github.io"
+repository               : "WYT8506/WYT8506.github.io"
 
 # Site Author
 author:
@@ -30,7 +30,7 @@ author:
 
   # Academic websites
   arxiv            : 
-  googlescholar    : "https://scholar.google.com/citations?user=44_jxpkAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=ClAr4UYAAAAJ&hl=en"
   impactstory      : 
   orcid            : 
   pubmed           : 
