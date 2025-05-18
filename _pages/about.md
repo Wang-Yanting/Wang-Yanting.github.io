@@ -16,14 +16,12 @@ I am currently a second-year PhD student at Pennsylvania State University. I am 
 * Explaining LLM behavior for security applications
 * Certifiable robustness in machine learning models
 
-
-
 ## Publications
 
 *\* Equal contribution*
+* Yupei Liu, **Yanting Wang**, and Jinyuan Jia. [TrojanDec: Data-free Detection of Trojan Inputs in Self-supervised Learning](https://arxiv.org/pdf/2501.04108), In *AAAI*, 2025.
+* **Yanting Wang**, Wei Zou, Jinyuan Jia. [FCert: Certifiably Robust Few-Shot Classification in the Era of Foundation Models](https://arxiv.org/pdf/2404.08631), In *IEEE S&P*, 2024.
+* **Yanting Wang**, Hongye Fu, Wei Zou, and Jinyuan Jia. [MMCert: Provable Defense against Adversarial Attacks to Multi-modal Models](https://arxiv.org/abs/2403.19080), In *CVPR*, 2024.
 
-* Wei Zou\*, **Runpeng Geng\***, Binghui Wang, and Jinyuan Jia. [PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/abs/2402.07867), In *USENIX Security Symposium*, 2025.
-* Yupei Liu, Yuqi Jia, **Runpeng Geng**, Jinyuan Jia, and Neil Zhenqiang Gong. [Formalizing and Benchmarking Prompt Injection Attacks and Defenses](https://arxiv.org/abs/2310.12815), In *USENIX Security Symposium*, 2024.
-
-
-
+## Preprints
+* Yuzhou Nie, **Yanting Wang**, Jinyuan Jia, Michael J. De Lucia, Nathaniel D. Bastian, Wenbo Guo, and Dawn Song. [TrojFM: Resource-efficient Backdoor Attacks against Very Large Foundation Models](https://arxiv.org/abs/2405.16783), In arxiv, 2024.
