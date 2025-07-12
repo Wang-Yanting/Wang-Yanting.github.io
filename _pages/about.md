@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year PhD student at Pennsylvania State University. I am fortunate to be advised by [Dr. Jinyuan Jia](https://jinyuan-jia.github.io/). My research focuses on AI Security & Trustworthy ML, recently focusing on LLM explanation. Previously, I earned dual bachelor’s degrees in Mechanical Engineering and Computer Science from RPI, followed by a master’s in Computer Science from Duke University.
+I am currently a second-year PhD student at Pennsylvania State University. I am fortunate to be advised by [Dr. Jinyuan Jia](https://jinyuan-jia.github.io/). My research focuses on AI Security & Trustworthy ML, recently focusing on LLM explanation. Previously, I earned double bachelor’s degrees in Mechanical Engineering and Computer Science from RPI, followed by a master’s in Computer Science from Duke University.
 
 
 ## Current research focuses
@@ -19,6 +19,7 @@ I am currently a second-year PhD student at Pennsylvania State University. I am 
 ## Publications
 
 *\* Equal contribution*
+* **Yanting Wang**,  \*Wei Zou, Runpeng Geng, and Jinyuan Jia. [TracLLM: A Generic Framework for Attributing Long Context LLMs](https://arxiv.org/abs/2506.04202), In *USENIX Security*, 2025.
 * Yupei Liu, **Yanting Wang**, and Jinyuan Jia. [TrojanDec: Data-free Detection of Trojan Inputs in Self-supervised Learning](https://arxiv.org/pdf/2501.04108), In *AAAI*, 2025.
 * **Yanting Wang**, Wei Zou, Jinyuan Jia. [FCert: Certifiably Robust Few-Shot Classification in the Era of Foundation Models](https://arxiv.org/pdf/2404.08631), In *IEEE S&P*, 2024.
 * **Yanting Wang**, Hongye Fu, Wei Zou, and Jinyuan Jia. [MMCert: Provable Defense against Adversarial Attacks to Multi-modal Models](https://arxiv.org/abs/2403.19080), In *CVPR*, 2024.
