@@ -29,8 +29,8 @@ I am currently a second-year PhD student at Pennsylvania State University. I am 
 
 ## Professional Service
 ### Program Committee member:
-AAAI Conference on Artificial Intelligence, 2026
+AAAI, 2026
 ### Reviewer:
-Pattern Recognition, 2025
+Pattern Recognition, 2025  
 TNNLS, 2024
 
