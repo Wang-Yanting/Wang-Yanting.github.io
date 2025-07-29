@@ -27,3 +27,10 @@ I am currently a second-year PhD student at Pennsylvania State University. I am 
 ## Preprints
 * Yuzhou Nie, **Yanting Wang**, Jinyuan Jia, Michael J. De Lucia, Nathaniel D. Bastian, Wenbo Guo, and Dawn Song. [TrojFM: Resource-efficient Backdoor Attacks against Very Large Foundation Models](https://arxiv.org/abs/2405.16783), In arxiv, 2024.
 
+## Professional Service
+### Program Committee member:
+AAAI Conference on Artificial Intelligence, 2026
+### Reviewer:
+Pattern Recognition, 2025
+TNNLS, 2024
+
