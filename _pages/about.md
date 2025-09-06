@@ -19,12 +19,13 @@ I am currently a second-year PhD student at Pennsylvania State University. I am 
 ## Publications
 
 *\* Equal contribution*
-* **\*Yanting Wang**,  \*Wei Zou, Runpeng Geng, and Jinyuan Jia. [TracLLM: A Generic Framework for Attributing Long Context LLMs](https://arxiv.org/abs/2506.04202), In *USENIX Security*, 2025.
-* Yupei Liu, **Yanting Wang**, and Jinyuan Jia. [TrojanDec: Data-free Detection of Trojan Inputs in Self-supervised Learning](https://arxiv.org/pdf/2501.04108), In *AAAI*, 2025.
-* **Yanting Wang**, Wei Zou, Jinyuan Jia. [FCert: Certifiably Robust Few-Shot Classification in the Era of Foundation Models](https://arxiv.org/pdf/2404.08631), In *IEEE S&P*, 2024.
-* **Yanting Wang**, Hongye Fu, Wei Zou, and Jinyuan Jia. [MMCert: Provable Defense against Adversarial Attacks to Multi-modal Models](https://arxiv.org/abs/2403.19080), In *CVPR*, 2024.
+* **\*Yanting Wang**,  \*Wei Zou, Runpeng Geng, and Jinyuan Jia. [TracLLM: A Generic Framework for Attributing Long Context LLMs](https://arxiv.org/abs/2506.04202), In *USENIX Security*, 2025. 🔗 [Code](https://github.com/Wang-Yanting/TracLLM)
+* Yupei Liu, **Yanting Wang**, and Jinyuan Jia. [TrojanDec: Data-free Detection of Trojan Inputs in Self-supervised Learning](https://arxiv.org/pdf/2501.04108), In *AAAI*, 2025. 🔗 [Code](https://github.com/YupeiLiu/TrojanDec)
+* **Yanting Wang**, Wei Zou, Jinyuan Jia. [FCert: Certifiably Robust Few-Shot Classification in the Era of Foundation Models](https://arxiv.org/pdf/2404.08631), In *IEEE S&P*, 2024. 🔗 [Code](https://github.com/Wang-Yanting/FCert) 
+* **Yanting Wang**, Hongye Fu, Wei Zou, and Jinyuan Jia. [MMCert: Provable Defense against Adversarial Attacks to Multi-modal Models](https://arxiv.org/abs/2403.19080), In *CVPR*, 2024. 🔗 [Code](https://github.com/Wang-Yanting/MMCert)
 
 ## Preprints
+Yanting Wang, Runpeng Geng, Ying Chen, and Jinyuan Jia. [AttnTrace: Attention-based Context Traceback for Long-Context LLMs](https://arxiv.org/html/2508.03793v1), In arxiv, 2025. 🔗 [Code](https://github.com/Wang-Yanting/AttnTrace) | [Demo (HF Spaces)](https://huggingface.co/spaces/SecureLLMSys/AttnTrace)
 * Yuzhou Nie, **Yanting Wang**, Jinyuan Jia, Michael J. De Lucia, Nathaniel D. Bastian, Wenbo Guo, and Dawn Song. [TrojFM: Resource-efficient Backdoor Attacks against Very Large Foundation Models](https://arxiv.org/abs/2405.16783), In arxiv, 2024.
 
 ## Professional Service
