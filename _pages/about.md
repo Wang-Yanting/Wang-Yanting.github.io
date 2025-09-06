@@ -25,7 +25,7 @@ I am currently a second-year PhD student at Pennsylvania State University. I am 
 * **Yanting Wang**, Hongye Fu, Wei Zou, and Jinyuan Jia. [MMCert: Provable Defense against Adversarial Attacks to Multi-modal Models](https://arxiv.org/abs/2403.19080), In *CVPR*, 2024. 🔗 [Code](https://github.com/Wang-Yanting/MMCert)
 
 ## Preprints
-Yanting Wang, Runpeng Geng, Ying Chen, and Jinyuan Jia. [AttnTrace: Attention-based Context Traceback for Long-Context LLMs](https://arxiv.org/html/2508.03793v1), In arxiv, 2025. 🔗 [Code](https://github.com/Wang-Yanting/AttnTrace) | [Demo (HF Spaces)](https://huggingface.co/spaces/SecureLLMSys/AttnTrace)
+* Yanting Wang, Runpeng Geng, Ying Chen, and Jinyuan Jia. [AttnTrace: Attention-based Context Traceback for Long-Context LLMs](https://arxiv.org/html/2508.03793v1), In arxiv, 2025. 🔗 [Code](https://github.com/Wang-Yanting/AttnTrace) | [Demo (HF Spaces)](https://huggingface.co/spaces/SecureLLMSys/AttnTrace)
 * Yuzhou Nie, **Yanting Wang**, Jinyuan Jia, Michael J. De Lucia, Nathaniel D. Bastian, Wenbo Guo, and Dawn Song. [TrojFM: Resource-efficient Backdoor Attacks against Very Large Foundation Models](https://arxiv.org/abs/2405.16783), In arxiv, 2024.
 
 ## Professional Service
