@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year PhD student at Pennsylvania State University. I am fortunate to be advised by [Dr. Jinyuan Jia](https://jinyuan-jia.github.io/). My research focuses on AI Security & Trustworthy ML, recently focusing on LLM explanation. Previously, I earned double bachelor’s degrees in Mechanical Engineering and Computer Science from RPI, followed by a master’s in Computer Science from Duke University.
+I am currently a second-year PhD student at Pennsylvania State University. I am fortunate to be advised by [Dr. Jinyuan Jia](https://jinyuan-jia.github.io/). My research focuses on AI Security & Trustworthy ML, recently focusing on LLM explanation for security purposes. Previously, I earned double bachelor’s degrees in Mechanical Engineering and Computer Science from RPI, followed by a master’s in Computer Science from Duke University.
 
 
 ## Current research focuses
 
-* Transparency of LLM-empowered AI systems
+* Transparency of LLM-empowered AI systems for security purposes
 * Provably secure/robust machine learning systems
 
 ## Publications
