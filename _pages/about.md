@@ -25,7 +25,7 @@ I am currently a third-year PhD student at Pennsylvania State University. I am f
 
 ## Preprints
 * Wei Zou, Yupei Liu, **Yanting Wang**, Ying Chen, Neil Gong, and Jinyuan Jia.  
-  [PIShield: Detecting Prompt Injection Attacks via Intrinsic LLM Features](https://arxiv.org/abs/2510.14005), In arXiv, 2025.
+  [PIShield: Detecting Prompt Injection Attacks via Intrinsic LLM Features](https://arxiv.org/abs/2510.14005), In arXiv, 2025. 🔗 [Code](https://github.com/weizou52/PIShield)
 * Runpeng Geng, **Yanting Wang**, Ying Chen, and Jinyuan Jia.  
   [UniC-RAG: Universal Knowledge Corruption Attacks to Retrieval-Augmented Generation](https://arxiv.org/abs/2508.18652), In arXiv, 2025.
 * Yupei Liu, **Yanting Wang**, Yuqi Jia, Jinyuan Jia, and Neil Zhenqiang Gong.  
