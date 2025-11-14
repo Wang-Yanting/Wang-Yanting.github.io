@@ -11,8 +11,8 @@ redirect_from:
 I am currently a third-year PhD student at Pennsylvania State University. I am fortunate to be advised by [Dr. Jinyuan Jia](https://jinyuan-jia.github.io/). My research focuses on AI Security & Trustworthy ML, recently focusing on LLM red-teaming. Previously, I earned double bachelor’s degrees in Mechanical Engineering and Computer Science from RPI, followed by a master’s in Computer Science from Duke University.
 
 ## Current research focuses
-* Enhancing the efficiency of optimization-based LLM red-teaming
 * Transparency of LLM-empowered AI systems for security purposes
+* Enhancing the efficiency of optimization-based LLM red-teaming
 * Provably secure/robust machine learning systems
 
 ## Publications
