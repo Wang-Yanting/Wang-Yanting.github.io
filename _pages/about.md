@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year PhD student at Pennsylvania State University. I am fortunate to be advised by [Dr. Jinyuan Jia](https://jinyuan-jia.github.io/). My research focuses on AI Security & Trustworthy ML, recently focusing on LLM red-teaming. Previously, I earned double bachelor’s degrees in Mechanical Engineering and Computer Science from RPI, followed by a master’s in Computer Science from Duke University.
+I am currently a third-year PhD student at Pennsylvania State University. I am fortunate to be advised by [Dr. Jinyuan Jia](https://jinyuan-jia.github.io/). My research focuses on AI Security & Trustworthy ML, recently focusing on LLM robustness and transparency. Previously, I earned double bachelor’s degrees in Mechanical Engineering and Computer Science from RPI, followed by a master’s in Computer Science from Duke University.
 
 ## Current research focuses
 * Transparency of LLM-empowered AI systems for security purposes
@@ -24,6 +24,8 @@ I am currently a third-year PhD student at Pennsylvania State University. I am f
 * **Yanting Wang**, Hongye Fu, Wei Zou, and Jinyuan Jia. [MMCert: Provable Defense against Adversarial Attacks to Multi-modal Models](https://arxiv.org/abs/2403.19080), In *CVPR*, 2024. 🔗 [Code](https://github.com/Wang-Yanting/MMCert)
 
 ## Preprints
+* **Yanting Wang**, Runpeng Geng, Jinghui Chen, Minhao Cheng, Jinyuan Jia.  
+  [TASO: Jailbreak LLMs via Alternative Template and Suffix Optimization], In arXiv, 2025.
 * Wei Zou, Yupei Liu, **Yanting Wang**, Ying Chen, Neil Gong, and Jinyuan Jia.  
   [PIShield: Detecting Prompt Injection Attacks via Intrinsic LLM Features](https://arxiv.org/abs/2510.14005), In arXiv, 2025. 🔗 [Code](https://github.com/weizou52/PIShield)
 * Runpeng Geng, **Yanting Wang**, Ying Chen, and Jinyuan Jia.  
