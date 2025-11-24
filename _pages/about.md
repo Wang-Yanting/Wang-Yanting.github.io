@@ -25,7 +25,9 @@ I am currently a third-year PhD student at Pennsylvania State University. I am f
 
 ## Preprints
 * **Yanting Wang**, Runpeng Geng, Jinghui Chen, Minhao Cheng, Jinyuan Jia.  
-  [TASO: Jailbreak LLMs via Alternative Template and Suffix Optimization], In arXiv, 2025.
+  TASO: Jailbreak LLMs via Alternative Template and Suffix Optimization, In arXiv, 2025.
+* Runpeng Geng, **Yanting Wang**, Chenlong Yin, Minhao Cheng, Ying Chen, Jinyuan Jia.
+  [PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization](https://arxiv.org/pdf/2511.10720v1), In arXiv, 2025. 🔗 [Code](https://github.com/sleeepeer/PISanitizer)
 * Wei Zou, Yupei Liu, **Yanting Wang**, Ying Chen, Neil Gong, and Jinyuan Jia.  
   [PIShield: Detecting Prompt Injection Attacks via Intrinsic LLM Features](https://arxiv.org/abs/2510.14005), In arXiv, 2025. 🔗 [Code](https://github.com/weizou52/PIShield)
 * Runpeng Geng, **Yanting Wang**, Ying Chen, and Jinyuan Jia.  
