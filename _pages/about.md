@@ -43,4 +43,5 @@ AAAI, 2026
 ### Reviewer:
 Pattern Recognition, 2025  
 TNNLS, 2024
-
+## Personal 
+I’m always interested in trying new things. Outside of work, I enjoy playing all kinds of ball sports, hiking, and snowboarding.
