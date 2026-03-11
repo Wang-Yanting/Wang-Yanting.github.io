@@ -18,7 +18,7 @@ I am currently a third-year PhD student at Pennsylvania State University. I am f
 ## Publications
 
 *\* Equal contribution*
-* Yanting Wang, Runpeng Geng, Ying Chen, and Jinyuan Jia. [AttnTrace: Attention-based Context Traceback for Long-Context LLMs](https://arxiv.org/html/2508.03793v1), In *USENIX Security*, 2026. 🔗 [Code](https://github.com/Wang-Yanting/AttnTrace) [Demo (HF Spaces)](https://huggingface.co/spaces/SecureLLMSys/AttnTrace)
+* **Yanting Wang**, Runpeng Geng, Ying Chen, and Jinyuan Jia. [AttnTrace: Attention-based Context Traceback for Long-Context LLMs](https://arxiv.org/html/2508.03793v1), In *IEEE S&P*, 2026. 🔗 [Code](https://github.com/Wang-Yanting/AttnTrace) [Demo (HF Spaces)](https://huggingface.co/spaces/SecureLLMSys/AttnTrace)
 * **Yanting Wang** and Jinyuan Jia. Intrinsic Explanation of Random Subspace Method for Enhanced Security Applications, In *ICLR*, 2026.
 * **\*Yanting Wang**,  \*Wei Zou, Runpeng Geng, and Jinyuan Jia. [TracLLM: A Generic Framework for Attributing Long Context LLMs](https://arxiv.org/abs/2506.04202), In *USENIX Security*, 2025. 🔗 [Code](https://github.com/Wang-Yanting/TracLLM)
 * Yupei Liu, **Yanting Wang**, and Jinyuan Jia. [TrojanDec: Data-free Detection of Trojan Inputs in Self-supervised Learning](https://arxiv.org/pdf/2501.04108), In *AAAI*, 2025.
