@@ -40,14 +40,13 @@ Runpeng Geng, **Yanting Wang**, Chenlong Yin, Minhao Cheng, Ying Chen, Jinyuan J
 * Yuzhou Nie, **Yanting Wang**, Jinyuan Jia, Michael J. De Lucia, Nathaniel D. Bastian, Wenbo Guo, and Dawn Song. [TrojFM: Resource-efficient Backdoor Attacks against Very Large Foundation Models](https://arxiv.org/abs/2405.16783), In arxiv, 2024.
 
 ## Experience
-
-**Research Scientist Intern**, ByteDance, San Jose, CA | May 2026 – Present  
+**Research Scientist Intern (AI Security) **, ByteDance, San Jose, CA | May 2026 – Present  
 - Research on automated red-teaming for LLM agents.
 
 ## Professional Service
-#### Program Committee member:
+### Program Committee member:
 Asia CCS, 2027; AAAI, 2026
-#### Reviewer:
+### Reviewer:
 COLM, 2026; NeurIPS, 2026; Pattern Recognition, 2025; TNNLS, 2024
 ## Personal 
 I’m always interested in trying new things. Outside of work, I enjoy playing all kinds of ball sports, hiking, and snowboarding.
