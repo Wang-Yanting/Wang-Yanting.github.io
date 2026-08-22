@@ -18,7 +18,7 @@ I am currently a third-year PhD student at Pennsylvania State University. I am f
 ## Selected Publications
 
 *\* Equal contribution*
-Runpeng Geng, **Yanting Wang**, Chenlong Yin, Minhao Cheng, Ying Chen, Jinyuan Jia. [PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization](https://arxiv.org/pdf/2511.10720v1), In EMNLP, 2026. 🔗 [Code](https://github.com/sleeepeer/PISanitizer)
+* Runpeng Geng, **Yanting Wang**, Chenlong Yin, Minhao Cheng, Ying Chen, Jinyuan Jia. [PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization](https://arxiv.org/pdf/2511.10720v1), In EMNLP, 2026. 🔗 [Code](https://github.com/sleeepeer/PISanitizer)
 * Chenlong Yin, Runpeng Geng, **Yanting Wang**, and Jinyuan Jia. [PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses](https://arxiv.org/abs/2603.13026), In COLM, 2026. 🔗 [Code](https://github.com/albert-y1n/PISmith)
 * \*Runpeng Geng, \*Chenlong Yin, **Yanting Wang**, Ying Chen, and Jinyuan Jia. [PIArena: A Platform for Prompt Injection Evaluation](https://arxiv.org/abs/2604.08499), In ACL, 2026. 🔗 [Code](https://github.com/sleeepeer/PIArena)
 * **Yanting Wang**, Runpeng Geng, Ying Chen, and Jinyuan Jia. [AttnTrace: Attention-based Context Traceback for Long-Context LLMs](https://arxiv.org/html/2508.03793v1), In *IEEE S&P*, 2026. 🔗 [Code](https://github.com/Wang-Yanting/AttnTrace) [Demo (HF Spaces)](https://huggingface.co/spaces/SecureLLMSys/AttnTrace)
