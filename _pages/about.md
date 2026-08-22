@@ -45,10 +45,10 @@ Runpeng Geng, **Yanting Wang**, Chenlong Yin, Minhao Cheng, Ying Chen, Jinyuan J
 - Research on automated red-teaming for LLM agents.
 
 ## Professional Service
-### Program Committee member:
+#### Program Committee member:
 Asia CCS, 2027
 AAAI, 2026
-### Reviewer:
+#### Reviewer:
 COLM, 2026
 NeurIPS, 2026
 Pattern Recognition, 2025  
