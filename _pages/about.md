@@ -40,7 +40,7 @@ I am currently a third-year PhD student at Pennsylvania State University. I am f
 * Yuzhou Nie, **Yanting Wang**, Jinyuan Jia, Michael J. De Lucia, Nathaniel D. Bastian, Wenbo Guo, and Dawn Song. [TrojFM: Resource-efficient Backdoor Attacks against Very Large Foundation Models](https://arxiv.org/abs/2405.16783), In arxiv, 2024.
 
 ## Experience
-**Research Scientist Intern (AI Security) **, ByteDance, San Jose, CA | May 2026 – Present  
+**Research Scientist Intern (AI Security)**, ByteDance, San Jose, CA | May 2026 – Present  
 - Research on automated red-teaming for LLM agents.
 
 ## Professional Service
