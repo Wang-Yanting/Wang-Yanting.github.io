@@ -46,12 +46,8 @@ Runpeng Geng, **Yanting Wang**, Chenlong Yin, Minhao Cheng, Ying Chen, Jinyuan J
 
 ## Professional Service
 #### Program Committee member:
-Asia CCS, 2027
-AAAI, 2026
+Asia CCS, 2027; AAAI, 2026
 #### Reviewer:
-COLM, 2026
-NeurIPS, 2026
-Pattern Recognition, 2025  
-TNNLS, 2024
+COLM, 2026; NeurIPS, 2026; Pattern Recognition, 2025; TNNLS, 2024
 ## Personal 
 I’m always interested in trying new things. Outside of work, I enjoy playing all kinds of ball sports, hiking, and snowboarding.
