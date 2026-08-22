@@ -12,15 +12,15 @@ I am currently a third-year PhD student at Pennsylvania State University. I am f
 
 ## Current research focuses
 * Transparency of LLM-empowered AI systems for security purposes
-* Enhancing the efficiency of optimization-based LLM red-teaming
+* Automatic Red-Teaming for LLM Agents
 * Provably secure/robust machine learning systems
 
-## Publications
+## Selected Publications
 
 *\* Equal contribution*
-
+Runpeng Geng, **Yanting Wang**, Chenlong Yin, Minhao Cheng, Ying Chen, Jinyuan Jia. [PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization](https://arxiv.org/pdf/2511.10720v1), In EMNLP, 2026. 🔗 [Code](https://github.com/sleeepeer/PISanitizer)
 * Chenlong Yin, Runpeng Geng, **Yanting Wang**, and Jinyuan Jia. [PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses](https://arxiv.org/abs/2603.13026), In COLM, 2026. 🔗 [Code](https://github.com/albert-y1n/PISmith)
-* Runpeng Geng*, Chenlong Yin*, **Yanting Wang**, Ying Chen, and Jinyuan Jia. [PIArena: A Platform for Prompt Injection Evaluation](https://arxiv.org/abs/2604.08499), In ACL Main, 2026. 🔗 [Code](https://github.com/sleeepeer/PIArena)
+* \*Runpeng Geng, \*Chenlong Yin, **Yanting Wang**, Ying Chen, and Jinyuan Jia. [PIArena: A Platform for Prompt Injection Evaluation](https://arxiv.org/abs/2604.08499), In ACL, 2026. 🔗 [Code](https://github.com/sleeepeer/PIArena)
 * **Yanting Wang**, Runpeng Geng, Ying Chen, and Jinyuan Jia. [AttnTrace: Attention-based Context Traceback for Long-Context LLMs](https://arxiv.org/html/2508.03793v1), In *IEEE S&P*, 2026. 🔗 [Code](https://github.com/Wang-Yanting/AttnTrace) [Demo (HF Spaces)](https://huggingface.co/spaces/SecureLLMSys/AttnTrace)
 * **Yanting Wang** and Jinyuan Jia. [EnsembleSHAP: Faithful and Certifiably Robust Attribution for Random Subspace Method](https://openreview.net/forum?id=u0UjdCMPLc&noteId=u0UjdCMPLc), In *ICLR*, 2026.
 * **\*Yanting Wang**,  \*Wei Zou, Runpeng Geng, and Jinyuan Jia. [TracLLM: A Generic Framework for Attributing Long Context LLMs](https://arxiv.org/abs/2506.04202), In *USENIX Security*, 2025. 🔗 [Code](https://github.com/Wang-Yanting/TracLLM)
@@ -31,8 +31,6 @@ I am currently a third-year PhD student at Pennsylvania State University. I am f
 ## Preprints
 * **Yanting Wang**, Runpeng Geng, Jinghui Chen, Minhao Cheng, Jinyuan Jia.  
   [TASO: Jailbreak LLMs via Alternative Template and Suffix Optimization](https://www.alphaxiv.org/abs/2511.18581), In arXiv, 2025.
-* Runpeng Geng, **Yanting Wang**, Chenlong Yin, Minhao Cheng, Ying Chen, Jinyuan Jia.
-  [PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization](https://arxiv.org/pdf/2511.10720v1), In arXiv, 2025. 🔗 [Code](https://github.com/sleeepeer/PISanitizer)
 * Wei Zou, Yupei Liu, **Yanting Wang**, Ying Chen, Neil Gong, and Jinyuan Jia.  
   [PIShield: Detecting Prompt Injection Attacks via Intrinsic LLM Features](https://arxiv.org/abs/2510.14005), In arXiv, 2025. 🔗 [Code](https://github.com/weizou52/PIShield)
 * Runpeng Geng, **Yanting Wang**, Ying Chen, and Jinyuan Jia.  
@@ -40,6 +38,11 @@ I am currently a third-year PhD student at Pennsylvania State University. I am f
 * Yupei Liu, **Yanting Wang**, Yuqi Jia, Jinyuan Jia, and Neil Zhenqiang Gong.  
   [SecInfer: Preventing Prompt Injection via Inference-Time Scaling](https://arxiv.org/abs/2509.24967), In arXiv, 2025.
 * Yuzhou Nie, **Yanting Wang**, Jinyuan Jia, Michael J. De Lucia, Nathaniel D. Bastian, Wenbo Guo, and Dawn Song. [TrojFM: Resource-efficient Backdoor Attacks against Very Large Foundation Models](https://arxiv.org/abs/2405.16783), In arxiv, 2024.
+
+## Experience
+
+**Research Scientist Intern**, ByteDance, San Jose, CA | May 2026 – Present  
+- Research on automated red-teaming for LLM agents.
 
 ## Professional Service
 ### Program Committee member:
