@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth-year PhD student at Pennsylvania State University. I am fortunate to be advised by [Dr. Jinyuan Jia](https://jinyuan-jia.github.io/). My research focuses on AI Security & Trustworthy ML, recently focusing on LLM robustness and transparency. Previously, I earned double bachelor’s degrees in Mechanical Engineering and Computer Science from RPI, followed by a master’s in Computer Science from Duke University.
+I am currently a PhD candidate at Pennsylvania State University. I am fortunate to be advised by [Dr. Jinyuan Jia](https://jinyuan-jia.github.io/). My research focuses on AI Security & Trustworthy ML, recently focusing on LLM robustness and interpretability. Previously, I earned double bachelor’s degrees in Mechanical Engineering and Computer Science from RPI, followed by a master’s in Computer Science from Duke University.
 
 ## Current research focuses
-* Transparency of LLM-empowered AI systems for security purposes
+* Interpretability of LLM-empowered AI systems for security purposes
 * Automatic Red-Teaming for LLM Agents
 * Provably secure/robust machine learning systems
 
@@ -41,7 +41,7 @@ I am currently a fourth-year PhD student at Pennsylvania State University. I am 
 
 ## Experience
 **Research Scientist Intern (AI Security)**, ByteDance, San Jose, CA | May 2026 – Present  
-- Research on automated red-teaming for LLM agents.
+- Automated red-teaming for LLM agents.
 
 ## Professional Service
 ### Program Committee member:
