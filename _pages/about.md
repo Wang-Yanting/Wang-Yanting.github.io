@@ -29,6 +29,10 @@ I am currently a PhD candidate at Pennsylvania State University. I am fortunate 
 * **Yanting Wang**, Hongye Fu, Wei Zou, and Jinyuan Jia. [MMCert: Provable Defense against Adversarial Attacks to Multi-modal Models](https://arxiv.org/abs/2403.19080), In *CVPR*, 2024. 🔗 [Code](https://github.com/Wang-Yanting/MMCert)
 
 ## Preprints
+* **Yanting Wang**, Chenlong Yin, Runpeng Geng, and Jinyuan Jia.  
+  [Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming](https://arxiv.org/abs/2608.05108), In arXiv, 2026. 🔗 [Code](https://github.com/Wang-Yanting/PIMiner)
+* **Yanting Wang**, Wei Zou, Runpeng Geng, and Jinyuan Jia.  
+  [AgentWatcher: A Rule-based Prompt Injection Monitor](https://arxiv.org/abs/2604.01194), In arXiv, 2026. 🔗 [Code](https://github.com/Wang-Yanting/AgentWatcher)
 * **Yanting Wang**, Runpeng Geng, Jinghui Chen, Minhao Cheng, Jinyuan Jia.  
   [TASO: Jailbreak LLMs via Alternative Template and Suffix Optimization](https://www.alphaxiv.org/abs/2511.18581), In arXiv, 2025.
 * Wei Zou, Yupei Liu, **Yanting Wang**, Ying Chen, Neil Gong, and Jinyuan Jia.  
